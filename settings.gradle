@@ -1,0 +1,2 @@
+include ':app', ':appkt', ':richpath', ':animator'
+rootProject.name = "RichpathX"
