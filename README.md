@@ -192,7 +192,7 @@ If you have any suggestion please open an issue for it.
  * [Twitter](https://twitter.com/a_tarek360)
 
 ## Maintainer
-* [Devmike01](http://github.com/devmike01/)
+* [Gbenga Oladipupo](https://github.com/Gbenga0)
 
 
 
