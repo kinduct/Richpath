@@ -123,7 +123,7 @@ Add the following dependency to your module `build.gradle` file:
 ```gradle
 dependencies {
 	...
-	implementation 'com.kinduct:richpath:1.2.0-beta.2'
+	implementation 'com.github.Gbenga0:Richpath:1.0.0.beta.2'
 }
 ```
 
